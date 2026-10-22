@@ -2,7 +2,7 @@ Fundamentos do Design de Interfaces (UI/UX)
 
 Sobre o projeto
 
-Trabalho acadêmico sobre os fundamentos do design de interfaces digitais, abordando os conceitos de UI e UX e sua importância na criação de sites e aplicativos.
+Trabalho sobre os fundamentos do design de interfaces digitais, abordando os conceitos de UI e UX e sua importância na criação de sites e aplicativos.
 
 Objetivos
 
